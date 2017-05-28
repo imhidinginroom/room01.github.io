@@ -275,7 +275,7 @@ iframe {
 
 
 /* tada */
-@media screen and (max-width : 1100px){
+@media screen and (max-width : 1200px){
 .fixed {
   display: flex;
   position: relative;
@@ -296,7 +296,6 @@ iframe {
     margin: auto;
     left: 10%;
     margin-left: 80px;
-    display: flex;
     vertical-align: middle;
   }
   
